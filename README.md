@@ -7,6 +7,11 @@ CPSC 599.90 - Design of a Mixed Reality App
 - [x] Program your character to **move between at least three points** in the scene.
 - [x] **Trigger an exciting event** when the character reaches its final point!
 
+# Assets
+- Character - [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
+- Animation - [Move Motion](https://assetstore.unity.com/packages/3d/animations/move-motion-free-pack-25900)
+- Audio - [Placeholder]()
+
 # Resources
 - [Unity Tutorials](https://unity3d.com/learn/tutorials)
 - [Unity API](https://docs.unity3d.com/ScriptReference/index.html)
